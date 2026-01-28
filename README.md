@@ -57,15 +57,11 @@
 
 
 **Additional Skills:**  
-Testing: TDD (Test Driven Development)
-
-API: Rest APi endpoints 
-
-UI/UX: Figma  
-
-Automation: UiPath, n8n
-
-AI: Worked with LLMs and agentic automation
+- Testing: TDD (Test Driven Development)
+- API: Rest APi endpoints 
+- UI/UX: Figma  
+- Automation: UiPath, n8n
+- AI: Worked with LLMs and agentic automation
 
 
 ## 📌 Featured Projects
