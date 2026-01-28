@@ -2,6 +2,7 @@
 
 ## 🎓 About Me
 - Final-year business information technology student at @ HAMK (Finland)
+- 4.4 GPA
 - Currently doing my thesis on Agentic automation for Triplan Oy
 - Focused on Backend and web development
 - Seeking Junior software Engineer opportunities in Finland and throughout europe
