@@ -6,7 +6,7 @@
 - Currently doing my thesis on Agentic automation for Triplan Oy
 - Focused on Backend and web development
 - Seeking Junior software Engineer opportunities in Finland and throughout europe
-- Graduating in 2026 Q4 - 2027 Q1 depending on internship opportunities
+- Graduating in Q4 of 2026
 - You can find my [Portfolio here](https://tupola.dev/)
  
 ## 🛠️ Tech Stack
