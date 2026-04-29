@@ -3,9 +3,9 @@
 ## 🎓 About Me
 - Final-year business information technology student at @ HAMK (Finland)
 - 4.4 GPA
-- Currently doing my thesis on Agentic automation for Triplan Oy
+- Completed my thesis on Agentic automation for Triplan Oy - [Link to my thesis here!](https://urn.fi/URN:NBN:fi:amk-202604237541)
+- Currently doing my internship for Triplan Oy
 - Focused on Backend and web development
-- Seeking Junior software Engineer opportunities in Finland and throughout europe
 - Graduating in Q4 of 2026
 - You can find my [Portfolio here](https://tupola.dev/)
  
