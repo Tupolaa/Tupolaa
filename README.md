@@ -70,7 +70,7 @@
 - ☁️ [Movie review website (Backend focused)](https://github.com/joni23008/Backend-Web-Development) - Node.js, React, Express.js, MongoDB
 - 🐍 [Mobile app for Movie review website](https://github.com/Tupolaa/Mobile_project) - JWT, React native, Expo
 - 🤖 [BIP AI Invoice Processing](https://github.com/Tupolaa/BIP-AI-model) - LLaMA 3.2 integration
-- ☁️ [Finna integration PoC for Triplan Oy](https://triplan.fi/) - Java, Spring, RestAPi, Log4j2
+- ☁️ [Finna integration PoC for Triplan Oy](https://doi.org/10.63777/037b) - Java, Spring, RestAPi, Log4j2
 
 
 ## 📫 Connect
