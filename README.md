@@ -1,12 +1,8 @@
 # Hi, I'm Teemu 👋
 
 ## 🎓 About Me
-- Final-year business information technology student at @ HAMK (Finland)
-- 4.4 GPA
-- Completed my thesis on Agentic automation for Triplan Oy - [Link to my thesis here!](https://urn.fi/URN:NBN:fi:amk-202604237541)
-- Currently doing my internship for Triplan Oy
-- Focused on Backend and web development
-- Graduating in Q4 of 2026
+- Junior Software Developer for AIneo Agency
+- Thesis on Agentic automation for Triplan Oy - [Link to my thesis here!](https://urn.fi/URN:NBN:fi:amk-202604237541)
 - You can find my [Portfolio here](https://tupola.dev/)
  
 ## 🛠️ Tech Stack
