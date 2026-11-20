@@ -1,7 +1,7 @@
 # Hi, I'm Teemu 👋
 
 ## 🎓 About Me
-- Junior Software Developer for AIneo Agency
+- Software Engineer looking for opportunities!
 - Thesis on Agentic automation for Triplan Oy - [Link to my thesis here!](https://urn.fi/URN:NBN:fi:amk-202604237541)
 - You can find my [Portfolio here](https://tupola.dev/)
 
